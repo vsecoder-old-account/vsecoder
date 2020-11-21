@@ -11,6 +11,10 @@
 - 🔭 I’m currently working on ```null```
 - 🌱 I’m currently learning JS
 - 📫 How to write to me: [telegram](https://t.me/vsevolodhtml), [mail](vsevolodhtml@yandex.ru)
+
+---
+
+<a href="https://www.buymeacoffee.com/vsevolodhtml" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 105px !important;" ></a>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
