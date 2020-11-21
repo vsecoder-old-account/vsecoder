@@ -18,8 +18,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Repositories | URL |
-| ------ | ------ |
+| Repositories | URL | Description |
+| ------ | ------ | ----- |
 | codeEditor | https://github.com/htmlcssphpjs/codeEditor | Electron editor code |
 | codebin | https://github.com/htmlcssphpjs/codebin | CodeBin |
 | htmlcssphpjs.github.io | https://github.com/htmlcssphpjs/htmlcssphpjs.github.io | My websait |
