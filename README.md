@@ -41,4 +41,4 @@ let me = ({
 
 ---
 
-<a href="https://www.buymeacoffee.com/vsevolodhtml" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px;width: 105px;" ></a>
+<a href="https://yoomoney.ru/to/4100111423217928" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px;width: 105px;" ></a>
