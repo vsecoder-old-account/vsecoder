@@ -14,7 +14,7 @@
 
 ---
 
-<a href="https://www.buymeacoffee.com/vsevolodhtml" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 105px !important;" ></a>
+<a href="https://www.buymeacoffee.com/vsevolodhtml" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px;width: 105px;" ></a>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
