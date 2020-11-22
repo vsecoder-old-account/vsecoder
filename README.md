@@ -8,13 +8,16 @@
 **htmlcssphpjs/htmlcssphpjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on ```null```
-- 🌱 I’m currently learning JS
-- 📫 How to write to me: [telegram](https://t.me/vsevolodhtml), [mail](vsevolodhtml@yandex.ru)
+```javascript
+let me = ({
+  name: 'Всеволод html',                                         //💬
+  langs: 'JavaScript(+ Node JS), Python, PHP, HTML and CSS',     //✨
+  contacts: 'vsevolodhtml@yandex.ru, https://t.me/vsevolodhtml', //📫
+  web: 'vsevolodhtml.ru',                                        //🌐
+  chanel: 'https://zen.yandex.ru/vsevolodhtml'                   //⚡
+});
+```
 
----
-
-<a href="https://www.buymeacoffee.com/vsevolodhtml" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px;width: 105px;" ></a>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -35,3 +38,7 @@
 | mdEditor | https://github.com/htmlcssphpjs/mdEditor | Mark Down editor |
 | userbot | https://github.com/htmlcssphpjs/userbot | UserBot |
 | screen-recorder | https://github.com/htmlcssphpjs/screen-recorder | Electron screen recorder |
+
+---
+
+<a href="https://www.buymeacoffee.com/vsevolodhtml" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px;width: 105px;" ></a>
