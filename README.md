@@ -14,7 +14,8 @@ let me = ({
   langs: 'JavaScript(+ Node JS), Python, PHP, HTML and CSS',     //✨
   contacts: 'vsevolodhtml@yandex.ru, https://t.me/vsevolodhtml', //📫
   web: 'vsevolodhtml.ru',                                        //🌐
-  chanel: 'https://zen.yandex.ru/vsevolodhtml'                   //⚡
+  chanel: 'https://zen.yandex.ru/vsevolodhtml',                  //⚡
+  donat: 'https://yoomoney.ru/to/4100111423217928'               //💸
 });
 ```
 
@@ -41,4 +42,4 @@ let me = ({
 
 ---
 
-<a href="https://yoomoney.ru/to/4100111423217928" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px;width: 105px;" ></a>
+<a href="https://yoomoney.ru/to/4100111423217928" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px;width: 105px;"></a>
