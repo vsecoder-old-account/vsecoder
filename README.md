@@ -1,13 +1,3 @@
-[green]: <[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=htmlcssphpjs)](https://github.com/htmlcssphpjs)>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=htmlcssphpjs)](https://github.com/htmlcssphpjs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htmlcssphpjs&layout=compact)](https://github.com/htmlcssphpjs)
-
-<!--
-**htmlcssphpjs/htmlcssphpjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ```javascript
 let me = ({
   name: 'Всеволод html',                                         //💬
@@ -18,6 +8,17 @@ let me = ({
   donat: 'https://yoomoney.ru/to/4100111423217928'               //💸
 });
 ```
+[1]: <[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=htmlcssphpjs)](https://github.com/htmlcssphpjs)>
+
+[![2](https://github-readme-stats.vercel.app/api?username=htmlcssphpjs)](https://github.com/htmlcssphpjs)
+
+[![3](https://github-readme-stats.vercel.app/api/top-langs/?username=htmlcssphpjs&layout=compact)](https://github.com/htmlcssphpjs)
+
+<!--
+**htmlcssphpjs/htmlcssphpjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
