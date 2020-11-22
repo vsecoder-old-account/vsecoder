@@ -3,9 +3,9 @@ let me = ({
   name: 'Всеволод html',                                         //💬
   langs: 'JavaScript(+ Node JS), Python, PHP, HTML and CSS',     //✨
   contacts: {                                                    //📫
-      mail: 'vsevolodhtml@yandex.ru',                            //
-      telegram: 'https://t.me/vsevolodhtml'                      //
-  },                                                             //
+      mail: 'vsevolodhtml@yandex.ru',                            //📧
+      telegram: 'https://t.me/vsevolodhtml'                      //✈
+  },                                                             //👀
   web: 'vsevolodhtml.ru',                                        //🌐
   chanel: 'https://zen.yandex.ru/vsevolodhtml',                  //⚡
   donat: 'https://yoomoney.ru/to/4100111423217928'               //💸
