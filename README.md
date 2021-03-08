@@ -1,6 +1,6 @@
 ```javascript
 let me = ({
-  name: 'Всеволод html',                                         //💬
+  name: 'Всеволод',                                              //💬
   langs: 'JavaScript(+ Node JS), Python, PHP, HTML and CSS',     //✨
   contacts: {                                                    //📫
     mail: 'vsevolodhtml@yandex.ru',                              //📧
