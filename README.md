@@ -4,7 +4,7 @@ let me = ({
   langs: 'JavaScript(+ Node JS), Python, PHP, HTML and CSS',     //✨
   contacts: {                                                    //📫
     mail: 'vsevolodhtml@yandex.ru',                              //📧
-    telegram: 'https://t.me/vsevolodhtml'                        //✈
+    telegram: 'https://t.me/C0deWizard'                          //✈
   },                                                             //👀
   web: 'vsevolodhtml.ru',                                        //🌐
   chanel: 'https://zen.yandex.ru/vsevolodhtml',                  //⚡
