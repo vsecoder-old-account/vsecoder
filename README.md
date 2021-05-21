@@ -6,7 +6,7 @@ let me = ({
     mail: 'vsevolodhtml@yandex.ru',                              //📧
     telegram: 'https://t.me/C0deWizard'                          //✈
   },                                                             //👀
-  web: 'vsevolodhtml.ru',                                        //🌐
+  web: 'htmlcssphpjs.github.io',                                 //🌐
   chanel: 'https://zen.yandex.ru/vsevolodhtml',                  //⚡
   donat: 'https://yoomoney.ru/to/4100111423217928'               //💸
 });
