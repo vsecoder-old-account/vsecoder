@@ -33,6 +33,7 @@ let me = ({
 | Repositories | URL | Description |
 | ------ | ------ | ----- |
 | Wizard | https://github.com/htmlcssphpjs/wizard | Лёгкий поисковик на Node JS |
+| Python Bite | https://github.com/htmlcssphpjs/pythonbite | 🐱‍💻 Free python tests platform. |
 | Minecraft CAPTCHA | https://github.com/htmlcssphpjs/captcha | Капча - игра майнкрафт |
 | CodeInTheDark | https://github.com/htmlcssphpjs/codeinthedark | 💻Пиши код не видя результата! |
 | 🪐Saturn | https://github.com/htmlcssphpjs/saturn | New mini and speedy browser |
