@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/htmlcssphpjs/htmlcssphpjs/main/Banner.png" />
+<img src="https://raw.githubusercontent.com/htmlcssphpjs/htmlcssphpjs/main/github-banner.png.png" />
 
 <p align="center">
   <a href="https://github.com/htmlcssphpjs?tab=followers">
