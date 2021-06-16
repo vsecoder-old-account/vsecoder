@@ -1,20 +1,5 @@
-![github-hero](https://raw.githubusercontent.com/htmlcssphpjs/htmlcssphpjs/main/Banner.png)
 
-<!--
-```javascript
-let me = ({
-  name: 'Всеволод',                                              //💬
-  langs: 'JavaScript(+ Node JS), Python, PHP, HTML and CSS',     //✨
-  contacts: {                                                    //📫
-    mail: 'vsevolodhtml@yandex.ru',                              //📧
-    telegram: 'https://t.me/C0deWizard'                          //✈
-  },                                                             //👀
-  web: 'htmlcssphpjs.github.io',                                 //🌐
-  chanel: 'https://zen.yandex.ru/vsevolodhtml',                  //⚡
-  donat: 'https://yoomoney.ru/to/4100111423217928'               //💸
-});
-```
--->
+<img src="https://raw.githubusercontent.com/htmlcssphpjs/htmlcssphpjs/main/Banner.png" />
 
 <p align="center">
   <a href="https://github.com/htmlcssphpjs?tab=followers">
