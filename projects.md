@@ -1,3 +1,19 @@
+```javascript
+let me = ({
+  name: 'Всеволод',                                              //💬
+  langs: 'JavaScript(+ Node JS), Python, PHP, HTML and CSS',     //✨
+  contacts: {                                                    //📫
+    mail: 'vsevolodhtml@yandex.ru',                              //📧
+    telegram: 'https://t.me/C0deWizard'                          //✈
+  },                                                             //👀
+  web: 'htmlcssphpjs.github.io',                                 //🌐
+  chanel: 'https://zen.yandex.ru/vsevolodhtml',                  //⚡
+  donat: 'https://yoomoney.ru/to/4100111423217928'               //💸
+});
+```
+
+---
+
 | Repositories | URL | Description |
 | ------ | ------ | ----- |
 | Wizard | https://github.com/htmlcssphpjs/wizard | Лёгкий поисковик на Node JS |
