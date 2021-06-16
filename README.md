@@ -1,3 +1,8 @@
+<!-- 
+Need image
+-->
+
+<!--
 ```javascript
 let me = ({
   name: 'Всеволод',                                              //💬
@@ -11,45 +16,22 @@ let me = ({
   donat: 'https://yoomoney.ru/to/4100111423217928'               //💸
 });
 ```
-
-<img src="https://github-readme-stats.vercel.app/api?username=htmlcssphpjs" style="max-width: 495px;display: inline-block;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmlcssphpjs&layout=compact" style="max-width: 350px;display: inline-block;float:left;">
-
-<!--
-**htmlcssphpjs/htmlcssphpjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<p align="center">
+  <a href="https://github.com/htmlcssphpjs?tab=followers">
+    <img src="https://img.shields.io/github/followers/htmlcssphpjs?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://discord.gg/D6nqPnjk">
+    <img src="https://img.shields.io/discord/833380546574811166?logo=discord&style=for-the-badge" />
+  </a>
+</p>
 
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-|  |  |  |
--->
-| Repositories | URL | Description |
-| ------ | ------ | ----- |
-| Wizard | https://github.com/htmlcssphpjs/wizard | Лёгкий поисковик на Node JS |
-| Python Bite | https://github.com/htmlcssphpjs/pythonbite | 🐱‍💻 Free python tests platform. |
-| Minecraft CAPTCHA | https://github.com/htmlcssphpjs/captcha | Капча - игра майнкрафт |
-| CodeInTheDark | https://github.com/htmlcssphpjs/codeinthedark | 💻Пиши код не видя результата! |
-| 🪐Saturn | https://github.com/htmlcssphpjs/saturn | New mini and speedy browser |
-| codeEditor | https://github.com/htmlcssphpjs/codeEditor | Electron editor code |
-| codebin | https://github.com/htmlcssphpjs/codebin | CodeBin |
-| htmlcssphpjs.github.io | https://github.com/htmlcssphpjs/htmlcssphpjs.github.io | My websait |
-| electron-helloworld | https://github.com/htmlcssphpjs/electron-helloworld | Hello, Electron |
-| $lib | https://github.com/htmlcssphpjs/libs | Lib js |
-| tmpnode | https://github.com/htmlcssphpjs/tmpnode | Template node js |
-| statusCode | https://github.com/htmlcssphpjs/statusCode | Node JS API |
-| electron-chat | https://github.com/htmlcssphpjs/electron-chat | Electron chat |
-| mdEditor | https://github.com/htmlcssphpjs/mdEditor | Mark Down editor |
-| userbot | https://github.com/htmlcssphpjs/userbot | UserBot |
-| screen-recorder | https://github.com/htmlcssphpjs/screen-recorder | Electron screen recorder |
-| url-shortener | https://github.com/htmlcssphpjs/url-shortener | Url Shortener |
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=htmlcssphpjs&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=htmlcssphpjs&theme=tokyonight" />
+</p>
 
 ---
 
-<a href="https://yoomoney.ru/to/4100111423217928" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 30px;width: 105px;"></a>
+
