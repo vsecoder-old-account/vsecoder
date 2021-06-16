@@ -1,6 +1,4 @@
-<!-- 
-Need image
--->
+![github-hero](https://raw.githubusercontent.com/htmlcssphpjs/htmlcssphpjs/main/Banner.png)
 
 <!--
 ```javascript
@@ -31,7 +29,3 @@ let me = ({
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=htmlcssphpjs&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=htmlcssphpjs&theme=tokyonight" />
 </p>
-
----
-
-
