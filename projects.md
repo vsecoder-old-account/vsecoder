@@ -1,4 +1,4 @@
-```javascript
+<!--```javascript
 let me = ({
   name: 'Всеволод',                                              //💬
   langs: 'JavaScript(+ Node JS), Python, PHP, HTML and CSS',     //✨
@@ -10,7 +10,7 @@ let me = ({
   chanel: 'https://zen.yandex.ru/vsevolodhtml',                  //⚡
   donat: 'https://yoomoney.ru/to/4100111423217928'               //💸
 });
-```
+```-->
 
 ---
 
