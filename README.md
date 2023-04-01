@@ -5,12 +5,7 @@
   <a href="https://github.com/vsecoder?tab=followers">
     <img src="https://img.shields.io/github/followers/vsecoder?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://discord.gg/D6nqPnjk">
-    <img src="https://img.shields.io/discord/833380546574811166?logo=discord&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/htmlcssphpjs/htmlcssphpjs/blob/main/projects.md">
-    <img src="https://img.shields.io/badge/Projects-17-blue?style=for-the-badge&logo=appveyor" />
-  </a>
+  <img src="https://img.shields.io/badge/Projects-17-blue?style=for-the-badge&logo=appveyor" />
 </p>
 <p align="center">
   <a href="https://wakatime.com/@vsecoder">
