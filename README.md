@@ -5,7 +5,9 @@
   <a href="https://github.com/vsecoder?tab=followers">
     <img src="https://img.shields.io/github/followers/vsecoder?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <img src="https://img.shields.io/badge/Projects-17-blue?style=for-the-badge&logo=appveyor" />
+  <a href="https://projects.vsecoder.me/">
+    <img src="https://img.shields.io/badge/Projects-10-blue?style=for-the-badge&logo=appveyor" />
+  </a>
 </p>
 <p align="center">
   <a href="https://wakatime.com/@vsecoder">
